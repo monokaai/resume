@@ -24,7 +24,7 @@
 | クラウド (AWS)              | EC2, S3, Lambda, RDS, Redshift, CloudFormation, CloudWatch                                                       |
 | クラウド (GCP)              | BigQuery, GCS                                                                                                    |
 | 管理・コラボレーション         | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger |
-| 語学        | 日本語：ネイティブ 英語：TOEIC865点、日英が 50-50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等） 独：簡単な読み書きと日常会話
+| 語学        | ・日本語：ネイティブ<br>・英語：TOEIC865 点、日英が 50-50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等）<br>・独：簡単な読み書きと日常会話
 | その他                    | ・[KARTE（レコメンドシステム）](https://karte.io/)におけるレコメンドの PDCA、分析と実装<br>・ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy)<br>・語学力を活かし、ブリッジ的ポジションでも活躍可能|
 
 ## 強み
@@ -60,9 +60,9 @@
 
 - 【EC】サイトユーザへのレコメンド機能開発（2022/02~現在）
   - プロジェクト詳細：
-    - AI-OCR エンジンへの入力データ前処理機能の開発
-    - O/R マッパを利用したデータロード処理のリファクタリング・高速化
-  - チーム編成
+    - 旅行系 EC サイトのビッグデータ分析
+    - 同サイトユーザの CTR/CVR 向上のためのレコメンド企画・実装・効果測定
+  - 開発メンバー
     - PM1 人、PL1 人、PG/データサイエンティスト 2 人
   - 技術・ツール
     - Python, Jupyter, Bigquery, Selenium, BeautifulSoup, GCS, Redshift
@@ -75,7 +75,7 @@
   - プロジェクト詳細：
     - AI-OCR エンジンへの入力データ前処理機能の開発
     - O/R マッパを利用したデータロード処理のリファクタリング・高速化
-  - チーム編成
+  - 開発メンバー
     - PM2 人、PL1 人、PG2 人
   - 技術・ツール
     - Python(Pandas), Pytest, Kubernetes, Bash, Streamlit, CentOS
@@ -91,12 +91,13 @@
     - 化合物データを RDKit を用いて画像と共にテキスト検索できるシステム
     - 新規画像データのアップロード、削除機能
     - ユーザアカウントの権限設定機能
-  - チーム編成
+  - 開発メンバー
     - PM1 人、PL1 人、PG1 人
   - 技術・ツール
-    - React, Python(Django), AWS Lambda, S3, VPC, EC2 他
+    - React, Python(Django), Figma, AWS Lambda, S3, VPC, EC2 他
   - 経験したこと
     - 初めてフロントエンド開発に携わり、React + Material UI でデータ閲覧・検索画面を実装
+    - 画面モック作成も 3 画面ほど担当
     - 短期間で開発に貢献できるスピーディなキャッチアップの経験
     - RDS からデータ取得する API を AWS Lambda で構築・リファクタリング
     - 要件定義にも参加し、詳細設計を一部担当
@@ -105,7 +106,7 @@
     - SNMP, NetFlow で収集されたネットワークログの可視化・編集機能
     - 上記ログの CRUD 用の GUI および API 機能
     - ユーザアカウント管理機能
-  - チーム編成
+  - 開発メンバー
     - PM1 人、PL1 人、PG4 人
   - 技術・ツール
     - Python(Django), ElasticSearch, Linux, Jira, Git, Swagger
