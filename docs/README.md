@@ -8,6 +8,7 @@
 | 生年月日 | 1991/06/13 |
 
 ## スキル・経験
+
 - Python, Django での Web・業務システム開発
 - BigQuery, Jupyter, Plotly, Dash, Docker でビッグデータ分析・基盤構築・可視化
 - 分析結果に基づく方針の提案・策定・レポーティング
@@ -23,7 +24,7 @@
 | クラウド (AWS)              | EC2, S3, Lambda, RDS, Redshift, CloudFormation, CloudWatch                                                       |
 | クラウド (GCP)              | BigQuery, GCS                                                                                                    |
 | 管理・コラボレーション         | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger |
-| 語学        | <ul><li>日本語：ネイティブ</li><li>英語：日英が 50:50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等に英語を利用）</li><li>ドイツ語：
+| 語学        | <ul><li>日本語：ネイティブ</li><li>英語：日英が 50:50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等に英語を利用）</li><li>ドイツ語：簡単な読み書きと日常会話
 | その他                    | <ul><li>[KARTE（レコメンドシステム）](https://karte.io/)におけるレコメンドの PDCA、分析と実装</li><li>ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy)</li><li>語学力を活かし、ブリッジ的ポジションでも活躍可能</li></ul>  |
 
 ## 強み
