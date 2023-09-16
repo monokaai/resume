@@ -20,7 +20,7 @@
 | プログラミング言語・フレームワーク | Python, Django, JavaScript/TypeScript, React.js, Google App Script (GAS), Java                                   |
 | データ分析・可視化           | Jupyter, Plotly, Streamlit, BigQuery                                                                             |
 | スクレイピング・テスト自動化     | Selenium, BeautifulSoup, Playwright                                                                              |
-| データベース                | MySQL, PostgreSQL, ElasticSearch                                                                                 |
+| データベース                | MySQL, PostgreSQL, Elasticsearch                                                                                 |
 | クラウド (AWS)              | EC2, S3, Lambda, RDS, Redshift, CloudFormation, CloudWatch                                                       |
 | クラウド (GCP)              | BigQuery, GCS                                                                                                    |
 | 管理・コラボレーション         | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger |
@@ -109,7 +109,7 @@
   - 開発メンバー
     - PM1 人、PL1 人、PG4 人
   - 技術・ツール
-    - Python(Django), ElasticSearch, Linux, Jira, Git, Swagger
+    - Python(Django), Elasticsearch, Linux, Jira, Git, Swagger
   - 経験したこと
     - チーム開発、Gitflow での開発経験と PG としての立ち回り
     - Pull Request のレビュイー/レビュアーとしての経験
