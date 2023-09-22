@@ -15,17 +15,19 @@
 - React.js + TypeScript でのフロントエンド開発
 - GAS を利用した社内ツールの作成
 
-| カテゴリ   | 技術・ツール  |
-|------------|--------------|
-| プログラミング言語・フレームワーク | Python, Django, JavaScript/TypeScript, React.js, Google App Script (GAS), Java                                   |
-| データ分析・可視化           | Jupyter, Plotly, Streamlit, BigQuery                                                                             |
-| スクレイピング・テスト自動化     | Selenium, BeautifulSoup, Playwright                                                                              |
-| データベース                | MySQL, PostgreSQL, Elasticsearch                                                                                 |
-| クラウド (AWS)              | EC2, S3, Lambda, RDS, Redshift, CloudFormation, CloudWatch                                                       |
-| クラウド (GCP)              | BigQuery, GCS                                                                                                    |
-| 管理・コラボレーション         | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger |
-| 語学        | ・日本語：ネイティブ<br>・英語：TOEIC865 点、日英が 50-50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等）<br>・独：簡単な読み書きと日常会話
-| その他                    | ・[KARTE（レコメンドシステム）](https://karte.io/)におけるレコメンドの PDCA、分析と実装<br>・ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy)<br>・語学力を活かし、ブリッジ的ポジションでも活躍可能|
+| カテゴリ                           | 技術・ツール |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| プログラミング言語・フレームワーク | Python, Django, JavaScript/TypeScript, React.js, Google App Script (GAS), Java                                              |
+| データ分析・可視化                 | Jupyter, Plotly, Streamlit, BigQuery                                                                                                                   |
+| スクレイピング・テスト自動化      | Selenium, BeautifulSoup, Playwright                                                                                                                    |
+| データベース                       | MySQL, PostgreSQL, Elasticsearch                                                                                                                      |
+| クラウド (AWS)                     | EC2, S3, Lambda, RDS, Redshift, CloudFormation, CloudWatch                                                                                             |
+| クラウド (GCP)                     | BigQuery, GCS                                                                                                                                          |
+| 管理・コラボレーション             | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger                         |
+| 語学                               | ・日本語：ネイティブ ・英語：TOEIC865 点、日英が 50-50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等）・独：簡単な読み書きと日常会話 |
+| その他                             | ・KARTE（レコメンドシステム）におけるレコメンドの PDCA、分析と実装 ・ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy) ・語学力を活かし、ブリッジ的ポジションでも活躍可能|
+
+
 <div style="page-break-before:always"></div>
 
 ## 強み
