@@ -15,8 +15,8 @@
 - React.js + TypeScript でのフロントエンド開発
 - GAS を利用した社内ツールの作成
 
-| カテゴリ                   | 技術・ツール                                                                                                      |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| カテゴリ   | 技術・ツール  |
+|------------|--------------|
 | プログラミング言語・フレームワーク | Python, Django, JavaScript/TypeScript, React.js, Google App Script (GAS), Java                                   |
 | データ分析・可視化           | Jupyter, Plotly, Streamlit, BigQuery                                                                             |
 | スクレイピング・テスト自動化     | Selenium, BeautifulSoup, Playwright                                                                              |
