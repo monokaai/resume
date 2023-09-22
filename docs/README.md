@@ -25,7 +25,7 @@
 | クラウド (GCP)                     | BigQuery, GCS                                                                                                                                          |
 | 管理・コラボレーション             | Git, GitHub, SourceTree, Docker, Kubernetes, VSCode, Slack, Google Meet, Microsoft Teams, Notion, Backlog, Jira, Figma, Swagger                         |
 | 語学                               | ・日本語：ネイティブ ・英語：TOEIC865 点、日英が 50-50 の環境で半年間の開発経験あり（会議・コメント・ドキュメント・チャット等）・独：簡単な読み書きと日常会話 |
-| その他                             | ・KARTE（レコメンドシステム）におけるレコメンドの PDCA、分析と実装 ・ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy) ・語学力を活かし、ブリッジ的ポジションでも活躍可能|
+| その他                             | ・KARTE（レコメンドシステム）におけるレコメンドの PDCA、分析と実装 ・ETL 処理のバッチ化・リファクタリング経験（Python/SQLAlchemy) <br>・語学力を活かし、ブリッジ的ポジションでも活躍可能|
 
 
 <div style="page-break-before:always"></div>
